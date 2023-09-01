@@ -27,7 +27,9 @@ public class CarrinhoCompras {
 		comprasList.removeAll(itemRemover);
 	}
 	
-	public void calcularValorTotal(Number preco, int quantidade)
+	public void calcularValorTotal(Number preco, int quantidade) {
+		
+	}
 	
 	
 }
